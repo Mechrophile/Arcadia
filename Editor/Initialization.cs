@@ -59,7 +59,7 @@ namespace Arcadia
 			SetClojureLoadPath();
 			ensureCompiledFolder();
 			// StartWatching();
-			StartREPL();
+			// StartREPL();
 
 			Debug.Log("Arcadia Started!");
 		}
